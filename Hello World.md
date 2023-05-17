@@ -1,6 +1,6 @@
-# Hi, I’m ItsPungpond98 <img style="width: 3%; height: auto" src="https://yt3.googleusercontent.com/qPvyedBBgRPJM6hLU7CAF6MPZuhI5T9hxV7Y0aXtAkir3FCwlBDGAFItbA2D0nQ7a-CSPY9ePZk=s176-c-k-c0x00ffffff-no-rj">
+# Hi, I’m ItsPungpond98
 ***
-I'm a 14 year old from Thailand. I usually make Minecraft maps, and do some occasional coding as well.
+I'm a 14 year old from Thailand, and I do some occasional coding!
 ## Languages I Can Write
 | Language | Fluency [X/10] | Frequency Of Writing [%] |
 |----------|---------|---------------------|
