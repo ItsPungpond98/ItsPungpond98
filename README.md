@@ -2,7 +2,7 @@
 ---
 I'm a 14 year old from Thailand, and I do some occasional coding!
 ## Languages & Tools I Use
-| Languages <br> & Tools | <div style="display: flex; justify-content: center;"><a href="https://minecraft.fandom.com/wiki/Commands"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/800px-Minecraft-creeper-face.jpg" style="width: 38px; border-radius: 10px;"></a></div> | <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 50px;"></a> | <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="width: 38px;"></a> |
+| Languages <br> & Tools | <div style="display: flex; justify-content: center;"><a href="https://minecraft.fandom.com/wiki/Commands"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/800px-Minecraft-creeper-face.jpg" style="width: 38px; border-radius: 10px;"></a></div> | <div style="display: flex; justify-content: center;"><a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 50px;"></a></div> | <div style="display: flex; justify-content: center;"><a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="width: 38px;"></a></div> |
 | ----- | ---- | ----| ---- |
 | Languages | mcfunction | HTML | CSS |
 
