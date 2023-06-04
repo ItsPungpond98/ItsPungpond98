@@ -3,8 +3,8 @@
 I'm a 14 year old from Thailand, and I do some occasional coding!
 ## Languages I Use
 <div style="display: flex; justify-content: center; gap: 2%; flex-direction: row;">
-    <div style="text-align: center;">
-        <a href="https://minecraft.fandom.com/wiki/Commands"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/800px-Minecraft-creeper-face.jpg" style="width: 50px;"></a>
+    <div style="text-align: center; display: inline-block;">
+        <a href="https://minecraft.fandom.com/wiki/Commands"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/800px-Minecraft-creeper-face.jpg" style="width: 40px; padding: 5px; border-radius: 10px;"></a>
         <p>mcfunction</p>
     </div>
     <div style="text-align: center;">
