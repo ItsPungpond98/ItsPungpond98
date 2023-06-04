@@ -1,22 +1,10 @@
 # Hi, I’m ItsPungpond98!
 ---
 I'm a 14 year old from Thailand, and I do some occasional coding!
-## Languages I Use
-<div style="display: flex; justify-content: center; gap: 2%; flex-direction: row;">
-    <div style="text-align: center; display: inline-block;">
-        <a href="https://minecraft.fandom.com/wiki/Commands"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/800px-Minecraft-creeper-face.jpg" style="width: 40px; padding: 5px; border-radius: 10px;"></a><br>
-        <span>mcfunction</span>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 50px;"></a>
-        <br>
-        <span>HTML</span>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 50px;"></a>
-        <p>CSS</p>
-    </div>
-</div>
+## Languages & Tools I Use
+| Languages <br> & Tools | <div style="display: flex; justify-content: center;"><a href="https://minecraft.fandom.com/wiki/Commands"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/800px-Minecraft-creeper-face.jpg" style="width: 38px; border-radius: 10px;"></a></div> | <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 50px;"></a> | <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="width: 38px;"></a> |
+| ----- | ---- | ----| ---- |
+| Languages | mcfunction | HTML | CSS |
 
 ## Socials 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" style="height: 15px; width: auto;"> - [@ItsPungpond98](https://www.youtube.com/@ItsPungpond98) <br>
