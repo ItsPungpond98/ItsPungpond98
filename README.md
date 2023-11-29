@@ -12,10 +12,10 @@ I'm a 15 year old from Thailand, and I do some occasional coding!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/225px-Logo_of_Twitter.svg.png" style="height: 20px; width: auto; "> - [@ItsPungpond98](https://twitter.com/ItsPungpond98)<br>
 <img src="https://i.postimg.cc/9fmyrRkJ/Transparent-Planet-Minecraft-Logo.png" style="height: 27px; width: auto; "> - [@ItsPungpond98](https://www.planetminecraft.com/member/itspungpond98/)<br>
 <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" style="height: 25px; width: auto; "> - [Club 98](https://discord.com/invite/4PRUZgPmwN)<br>
-**Discord - @ItsPungpond98 #2471** [Send Me DM Requests]
+**Discord - @itspungpond98** [Send Me DM Requests]
 ## Reach Out!
 ### Via: <br>
-Discord - @ItsPungpond98 #2471 <br>
+Discord - @itspungpond98<br>
 Email - [itspungpond98@gmail.com](mailto:itspungpond98@gmail.com)<br>
 Phone Number - No u!
 <!---
